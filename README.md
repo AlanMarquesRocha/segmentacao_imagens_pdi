@@ -7,14 +7,26 @@
 
 ---
 
-<h3 align="center">Segmentação de Imagens com Python de A a Z</h3>
+<h3 align="center"> 
+	🚧  EdukBot 🚀 Em construção...  🚧
+</h3>
 
+---
+
+<h3 align="center"><b>Segmentação de Imagens com Python de A a Z</b></h3>
+
+<p align="center" width="100%">
+    <img width="60%" src="imgs_readme_md/capa.jpg"> 
+</p>
+
+---
 
 ### Sobre o projeto:
 
 A segmentação de imagem é um dos pontos fundamentais no ``Processamento Digital de Imagens``. Ter uma bagagem nos principais métodos de segmentação é primordial para quem deseja desenvolver projetos na área da Visão Computacional. O objetivo deste projeto é realizar a implementação de técnicas de segmentação de imagens nos mais variados campos de concentração, visando melhorar o ``hands-on`` na área, aprimorando técnicas e aplicando em casos reais do dia a dia.
 
 O curso ``Segmentação de Imagens com Pythonde A a Z`` é oferecido pela [IA Expert Academy](https://iaexpert.academy/) e pode ser conferido no [seguinte link](https://iaexpert.academy/courses/segmentacao-imagens-python-a-z/).
+
 
 ### Conteúdo do curso:
 
