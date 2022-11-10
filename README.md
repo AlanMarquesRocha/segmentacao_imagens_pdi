@@ -8,7 +8,7 @@
 ---
 
 <h3 align="center"> 
-	🚧  EdukBot 🚀 Em construção...  🚧
+	🚧 🚀 Em construção...🚀  🚧
 </h3>
 
 ---
