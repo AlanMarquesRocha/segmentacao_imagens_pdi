@@ -40,7 +40,7 @@ A implementação do curso está sendo feita totalmente no ``Google Colab``, ou 
 
 | Etapas | Descrição | Link |
 | --- | --- | --- |
-| 1ª etapa | Segmentação com abordagens clássicas | [Em implementação](Link)
+| 1ª etapa | Segmentação com abordagens clássicas | [Parte 1](https://github.com/AlanMarquesRocha/segmentacao_imagens_pdi/blob/master/segmentacao_imagens_pt1.ipynb)
 | 2ª etapa | Segmentação de instâncias com Mask R-CNN | [Em implementação](Link)
 | 3ª etapa | Segmentação semântica | [Em implementação](Link)
 | 4ª etapa | Segmentação panóptica | [Em implementação](Link)
